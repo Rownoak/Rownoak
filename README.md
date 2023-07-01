@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**Rownoak/Rownoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on transportation engineering...
-- 🌱 I’m currently learning machine learning...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### Hi there 👋, I am Rownoak Bin Rouf
+#### I am a full time Civil Engineer
+I made these projects using Machine learning. 
+
+Skills: Python/Machine Learning/ Etabs/Google SketchUp
+
+- 🔭 I’m currently working on transportation engineering 
+- 🌱 I’m currently learning Machine learning 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rownoak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rownoak-bin-rouf-310b66155//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100001379878482)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rownoak//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rownoak)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rownoak&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rownoak)  
+
+![GitHub metrics](https://metrics.lecoq.io/Rownoak)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rownoak)  
+
+![Profile views](https://gpvc.arturio.dev/Rownoak)  
