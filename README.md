@@ -1,5 +1,3 @@
-
--->
 ### Hi there 👋, I am Rownoak Bin Rouf
 #### I am a full time Civil Engineer
 I made these projects using Machine learning. 
