@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Rownoak Bin Rouf
-#### I am a full time Civil Engineer
+#### I am a  Civil Engineer
 I made these projects using Machine learning. 
 
 Skills: Python/Machine Learning/ Etabs/Google SketchUp
 
-- 🔭 I’m currently working on collaboration with Machine Learning & Civil Engineering 
+- 🔭 I’m looking for collaboration with Machine Learning & Civil & Environmental Engineering 
 - 🌱 Learning is always Endless. I’m a enthusiast only
 
 
